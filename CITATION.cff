@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Test Compresión
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Harold
+    family-names: Caballero Carrillo
+    email: harold.caballero@sansano.usm.cl
+    affiliation: Universidad Técnica Federíco Santa María
+repository-code: 'https://github.com/siara-cc/Unishox2'
+abstract: >-
+  Programa que compara el desempeño de los algoritmos
+  Unishox2, Huffman Coding y Zlib.
+keywords:
+  - Compresión
+  - Unishox2
+  - Huffman Coding
+  - Zlib
