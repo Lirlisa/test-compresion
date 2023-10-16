@@ -4,15 +4,15 @@
 cff-version: 1.2.0
 title: Test Compresión
 message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+  Programa que compara el desempeño de los algoritmos
+  Unishox2, Huffman Coding y Zlib.
 type: software
 authors:
   - given-names: Harold
     family-names: Caballero Carrillo
     email: harold.caballero@sansano.usm.cl
     affiliation: Universidad Técnica Federíco Santa María
-repository-code: 'https://github.com/siara-cc/Unishox2'
+repository-code: 'https://github.com/Lirlisa/test-compresion'
 abstract: >-
   Programa que compara el desempeño de los algoritmos
   Unishox2, Huffman Coding y Zlib.
@@ -21,3 +21,5 @@ keywords:
   - Unishox2
   - Huffman Coding
   - Zlib
+version: '1'
+date-released: '2023-09-05'
